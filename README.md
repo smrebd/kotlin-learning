@@ -10,7 +10,7 @@ I am learning Kotlin as the foundation for Android app development.
 
 A simple Kotlin program for managing student scores and analyzing their averages.
 
-Concepts practiced:
+#### Concepts practiced:
 - Maps
 - Lists
 - Functions

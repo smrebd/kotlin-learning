@@ -18,3 +18,7 @@ Concepts practiced:
 - Conditions
 - Collection operations
 - Basic data processing
+
+#### Sample Output
+
+![Student Grade Manager Output](project-01-student-grade-manager/output.png)

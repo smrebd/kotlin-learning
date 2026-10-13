@@ -10,7 +10,7 @@ I am learning Kotlin as the foundation for Android app development.
 
 A simple Kotlin program for managing student scores and analyzing their averages.
 
-#### Concepts practiced:
+**Concepts practiced:**
 - Maps
 - Lists
 - Functions
@@ -19,6 +19,20 @@ A simple Kotlin program for managing student scores and analyzing their averages
 - Collection operations
 - Basic data processing
 
-#### Sample Output
+**Sample Output**
 
 ![Student Grade Manager Output](01-student-grade-manager/output.png)
+
+### Project 02 — Shopping Cart
+
+A simple Kotlin shopping cart project.
+
+**Concepts practiced so far:**
+- Classes and Objects
+- Properties and Methods
+- Lists and Collections
+- Loops
+- Functions
+- Calculating product and cart totals
+
+**Status:** In progress
